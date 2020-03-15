@@ -47,8 +47,8 @@ const char *password = "";      // Password
 const char *countryURL = "/maps/d/viewer?mid=1yCPR-ukAgE55sROnmBUFmtLN6riVLTu3&ll=54.81124088123701%2C28.707117003395524&z=4";
 
 //const char *countryURL = "/maps/d/viewer?mid=1yCPR-ukAgE55sROnmBUFmtLN6riVLTu3&ll=52.52718300000002%2C19.28310239999996&z=18";
-const char *countryString = "Poland - Nationwide";
-const int numDescLines = 12;
+//const char *countryString = "Poland - Nationwide";
+//const int numDescLines = 12;
 
 //const char *countryURL = "/maps/d/viewer?mid=1yCPR-ukAgE55sROnmBUFmtLN6riVLTu3&ll=42.33487101680273%2C12.89892757812504&z=7";
 //const char *countryString = "Italy - Nationwide";
@@ -64,6 +64,17 @@ const int numDescLines = 12;
 //const char *countryString = "POL - Mazowieckie - Warsaw";
 //const int numDescLines = 1;
 
+const char *countryString = "United Kingdom - Nationwide";
+const int numDescLines = 6;
+
+//const char *countryString = "Netherlands - Nationwide";
+//const int numDescLines = 3;
+
+//const char *countryString = "Czechia - Nationwide";
+//const int numDescLines = 1;
+
+//const char *countryString = "Slovakia - Nationwide";
+//const int numDescLines = 1;
 // =======================================================================
 
 /*
